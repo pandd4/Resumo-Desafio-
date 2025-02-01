@@ -1,0 +1,17 @@
+
+🚀 Desafio: Explorando o Playground do Azure OpenAI  
+
+1️⃣ Explorando o Playground  
+Durante a exploração do **Azure OpenAI Playground**, testei diferentes configurações e aprendi sobre:  
+
+- **Modelos disponíveis**: GPT-4, GPT-3.5 e suas variações.  
+- **Temperatura**: Quanto maior o valor, mais criativas e aleatórias são as respostas. Valores baixos tornam o modelo mais determinístico.  
+- **Top-P e Frequência de Penalidade**: Controlam a diversidade das respostas e evitam repetições.  
+- **Tamanho das respostas (Tokens)**: Define o limite de palavras geradas pelo modelo.  
+- **Prompts e Contextos**: A forma como o prompt é escrito afeta diretamente a qualidade da resposta.  
+
+2️⃣ O que Aprendi  
+- Pequenas mudanças nos parâmetros alteram significativamente as respostas.  
+- Modelos mais avançados (como o GPT-4) oferecem respostas mais coerentes e completas.  
+- A combinação de **Temperatura + Top-P** permite equilibrar criatividade e precisão.  
+- A engenharia de prompts é essencial para obter respostas mais úteis.  
